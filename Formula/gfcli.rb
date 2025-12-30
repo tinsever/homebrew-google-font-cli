@@ -1,3 +1,5 @@
+require "language/node"
+
 class Gfcli < Formula
   desc "Download and install Google Web Fonts on your local machine. Both CLI and API available."
   homepage "https://github.com/tinsever/google-font-installer"
