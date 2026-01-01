@@ -3,8 +3,8 @@ require "language/node"
 class Gfcli < Formula
   desc "Download and install Google Web Fonts on your local machine. Both CLI and API available."
   homepage "https://github.com/tinsever/google-font-cli"
-  url "https://github.com/tinsever/google-font-cli/archive/refs/tags/v2.2.0.tar.gz"
-  sha256 "59e5e5ccea986680a86a991b71b009dc0f317a03776d6afdb8320587c57a56ee"
+  url "https://github.com/tinsever/google-font-cli/archive/refs/tags/v3.0.0.tar.gz"
+  sha256 "b5c40edbe1ba45f5f641925b0a543b74545d159d55adad5ee85a0daa590a6feb"
   license "MIT"
 
   depends_on "node"
